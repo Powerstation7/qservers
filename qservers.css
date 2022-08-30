@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&family=Lato:wght@100&family=Source+Sans+Pro:wght@200&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+#box{
+    display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+.box{background-color: rgb(240, 240, 240);
+    width: 220px;
+    height: 500px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+  
+    border: 0.5px solid rgb(221, 221, 221);
+
+}
+#box p{
+    font-size: 25px;
+    font-weight: 600;
+}
+#box h3{
+    font-weight: 300;
+    font-size: 16px;
+    padding: 30px;
+     
+}
+.box{
+    position: relative;
+}
+img{
+    position: relative;
+    margin: 0 auto;
+   left: 30%;
+}
+
+p{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    
+}
+h2{
+    text-align: center;
+    font-weight: 300px;
+    font-size: 20px;
+    margin-bottom: 60px;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+
+}
+#head{
+    display: flex;
+    justify-content: center;
+}
+#h1{
+    width: 60%;
+    border-bottom: 1px solid #E0E0E0;
+    justify-content: center;
+}
+hr{
+    color: #E0E0E0;
+    size: 0.5px;
+}
+h3{
+
+}
